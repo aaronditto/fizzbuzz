@@ -1,5 +1,14 @@
 #Real Fizzbuzz
 
+        var callback = jasmine.createSpy();
+        getProduct(123, callback);
+        waitsFor(function() {
+                return callback.callCount > 0;
+        });
+        runs(function() {
+                expect(callback).toHaveBeenCalled();
+        });
+    
 Note this solution uses JavaScript 1.7 (`yield`) and will therefore only work in environments supporting that version of JavaScript. Modern Firefox is the browser this code was tested on. You will probably have problems with Chrome. Node.js will probably work (but is untested).
 
 ##How to test
