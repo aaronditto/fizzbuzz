@@ -37,7 +37,7 @@ Tag your repo `step2` when you have completed this stage of the implementation.
 
 *Enhance your existing solution as follows*
 
-Produce a report at the end of the programme showing how many times the following were output
+Produce a report at the end of the programme showing how many times the following were output:
 
  - `fizz`
  - `buzz`
