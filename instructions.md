@@ -11,11 +11,8 @@ When complete, email the link to your public GitHub repo containing your work to
 Write some code that prints out the following for a contiguous range of numbers:
 
  - the number
-
  - `fizz` for numbers that are multiples of 3
-
  - `buzz` for numbers that are multiples of 5
-
  - `fizzbuzz` for numbers that are multiples of 15
 
 e.g. If I run the program over a range from 1-20 I should get the following output
@@ -42,10 +39,10 @@ Enhance your existing solution to perform the following:
 
 Produce a report at the end of the programme showing how many times the following were output
 
- - fizz
- - buzz
- - fizzbuzz
- - lucky
+ - `fizz`
+ - `buzz`
+ - `fizzbuzz`
+ - `lucky`
  - an integer
 
 e.g. If I run the program over a range from 1-20 I should get the following output:
