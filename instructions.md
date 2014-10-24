@@ -1,6 +1,6 @@
 #Real FizzBuzz
 
-###Step 1:
+###Step 1
 
 Write some code that prints out the following for a contiguous range of numbers:
 
@@ -26,7 +26,7 @@ Archive this as a separate zip file then continue on to step two.
 
  
 
-###Step 2:
+###Step 2
 
 Enhance your existing FizzBuzz solution to perform the following:
 
@@ -48,7 +48,7 @@ Archive this as a separate zip file then continue on to step three
 
  
 
-###Step 3:
+###Step 3
 
 Enhance your existing solution to perform the following:
 
