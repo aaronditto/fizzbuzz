@@ -25,7 +25,7 @@ Tag your repo `step1` when you have completed this stage of the implementation.
 
 *Enhance your existing solution as follows*
 
-If the number contains a three you must output the text 'cool'. This overrides any existing behaviour.
+If the number contains a three you must output the text `cool`. This overrides any existing behaviour.
 
 e.g. Running the program over a range from 1-20 should output:
 
