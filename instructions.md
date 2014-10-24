@@ -1,9 +1,5 @@
 #Real FizzBuzz
 
- 
-
-##Technical description:
-
 ###Step 1:
 
 Write some code that prints out the following for a contiguous range of numbers:
