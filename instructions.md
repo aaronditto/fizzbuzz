@@ -23,7 +23,7 @@ Tag your repo `step1` when you have completed this stage of the implementation.
 
 ###Step 2
 
-Enhance your existing FizzBuzz solution to perform the following:
+*Enhance your existing solution as follows*
 
 If the number contains a three you must output the text 'cool'. This overrides any existing behaviour.
 
@@ -35,7 +35,7 @@ Tag your repo `step2` when you have completed this stage of the implementation.
 
 ###Step 3
 
-Enhance your existing solution to perform the following:
+*Enhance your existing solution as follows*
 
 Produce a report at the end of the programme showing how many times the following were output
 
@@ -60,6 +60,8 @@ e.g. Running the program over a range from 1-20 should output:
 Tag your repo `step3` when you have completed this stage of the implementation.
 
 ###Step 4 (bonus step and not required)
+
+*Enhance your existing solution as follows*
 
 Refactor your implementation to use the `yield` keyword avaailable in modern versions of Firefox.
 
