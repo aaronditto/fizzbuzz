@@ -4,7 +4,7 @@
 
 Create a public GitHub repo to host your work. Use this repository for your subsequent development.
 
-When complete, email the link to your public GitHub repo containing your work to daniel.jepp@hsbc.com.
+When complete, email the link to your public GitHub repo containing your work to xxx@xxx.com.
 
 ###Step 1
 
