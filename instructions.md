@@ -63,7 +63,7 @@ Tag your repo `step3` when you have completed this stage of the implementation.
 
 *Enhance your existing solution as follows*
 
-Refactor your implementation to use the `yield` keyword avaailable in modern versions of Firefox.
+Refactor your implementation to use the `yield` keyword available in modern versions of Firefox.
 
 Tag your repo `step4` when you have completed this stage of the implementation.
 
