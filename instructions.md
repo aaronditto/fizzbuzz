@@ -8,14 +8,14 @@ When complete, email the link to your public GitHub repo containing your work to
 
 ###Step 1
 
-Write some JavaScript code that prints out the following for a contiguous range of numbers:
+Write some JavaScript code that prints out the following for a contiguous range of integer values:
 
  - the number
  - `fizz` for numbers that are multiples of 3
  - `buzz` for numbers that are multiples of 5
  - `fizzbuzz` for numbers that are multiples of 15
 
-e.g. If I run the program over a range from 1-20 I should get the following output
+e.g. Running the program over a range from 1-20 should output:
 
     1 2 fizz 4 buzz fizz 7 8 fizz buzz 11 fizz 13 14 fizzbuzz 16 17 fizz 19 buzz
 
@@ -27,7 +27,7 @@ Enhance your existing FizzBuzz solution to perform the following:
 
 If the number contains a three you must output the text 'cool'. This overrides any existing behaviour.
 
-e.g. If I run the program over a range from 1-20 I should get the following output
+e.g. Running the program over a range from 1-20 should output:
 
     1 2 cool 4 buzz fizz 7 8 fizz buzz 11 fizz cool 14 fizzbuzz 16 17 fizz 19 buzz
 
@@ -45,7 +45,7 @@ Produce a report at the end of the programme showing how many times the followin
  - `cool`
  - an integer
 
-e.g. If I run the program over a range from 1-20 I should get the following output:
+e.g. Running the program over a range from 1-20 should output:
 
     1 2 cool 4 buzz fizz 7 8 fizz buzz 11 fizz cool 14 fizzbuzz 16 17 fizz 19 buzz
      
@@ -67,7 +67,7 @@ Tag your repo `step4` when you have completed this stage of the implementation.
 
 ###Notes
 
-Avoid spending a large amount of time on this exercise. This is designed to a straightforward coding exercise.
+Avoid spending a large amount of time on this exercise - it is designed to be straightforward.
 
 Things we are looking for:
 
