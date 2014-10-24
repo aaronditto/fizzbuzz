@@ -1,4 +1,4 @@
-#Real FizzBuzz
+#Technical Test
 
 ###Prerequisites
 
@@ -8,7 +8,7 @@ When complete, email the link to your public GitHub repo containing your work to
 
 ###Step 1
 
-Write some code that prints out the following for a contiguous range of numbers:
+Write some JavaScript code that prints out the following for a contiguous range of numbers:
 
  - the number
  - `fizz` for numbers that are multiples of 3
@@ -25,11 +25,11 @@ Tag your repo `step1` when you have completed this stage of the implementation.
 
 Enhance your existing FizzBuzz solution to perform the following:
 
-If the number contains a three you must output the text 'lucky'. This overrides any existing behaviour.
+If the number contains a three you must output the text 'cool'. This overrides any existing behaviour.
 
 e.g. If I run the program over a range from 1-20 I should get the following output
 
-    1 2 lucky 4 buzz fizz 7 8 fizz buzz 11 fizz lucky 14 fizzbuzz 16 17 fizz 19 buzz
+    1 2 cool 4 buzz fizz 7 8 fizz buzz 11 fizz cool 14 fizzbuzz 16 17 fizz 19 buzz
 
 Tag your repo `step2` when you have completed this stage of the implementation.
 
@@ -42,17 +42,17 @@ Produce a report at the end of the programme showing how many times the followin
  - `fizz`
  - `buzz`
  - `fizzbuzz`
- - `lucky`
+ - `cool`
  - an integer
 
 e.g. If I run the program over a range from 1-20 I should get the following output:
 
-    1 2 lucky 4 buzz fizz 7 8 fizz buzz 11 fizz lucky 14 fizzbuzz 16 17 fizz 19 buzz
+    1 2 cool 4 buzz fizz 7 8 fizz buzz 11 fizz cool 14 fizzbuzz 16 17 fizz 19 buzz
      
     fizz: 4
     buzz: 3
     fizzbuzz: 1
-    lucky: 2
+    cool: 2
     integer: 10
 
  (Integer is 10 because there were 10 numbers that were not altered in any way).
@@ -71,8 +71,8 @@ Avoid spending a large amount of time on this exercise. This is designed to a st
 
 Things we are looking for:
 
- - *Test Coverage* The solution should be developed “test-first”, and should have excellent unit test coverage.
+ - *Test Coverage* Try to develop your solution test-first. It should have very good unit test coverage.
 
- - *Simplicity* We value simplicity as an architectural virtue and a development practice. Solutions should reflect the difficulty of the assigned task, and should not be overly complex. Layers of abstraction, patterns, or architectural features that aren’t called for should not be included.
+ - *Simplicity* Simplicity is important because other developers will have to understand your work. Solutions should be as simple as is reasonably possible. Superfluous layers of abstraction, patterns, or architectural features should be avoided.
 
- - *Self-explanatory code* The solution you produce must speak for itself. Multiple paragraphs explaining the solution are a sign that the it isn’t straightforward enough to understand purely by reading code, and are not appropriate.
+ - *Self-explanatory code* Your work should not require multiple paragraphs of explanatory text. If this is necessary, it is highly likely your code is over-complicated.
