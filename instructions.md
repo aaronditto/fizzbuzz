@@ -21,7 +21,7 @@ e.g. If I run the program over a range from 1-20 I should get the following outp
 
 Enhance your existing FizzBuzz solution to perform the following:
 
-* If the number contains a three you must output the text 'lucky'. This overrides any existing behaviour.
+If the number contains a three you must output the text 'lucky'. This overrides any existing behaviour.
 
 e.g. If I run the program over a range from 1-20 I should get the following output
 
@@ -31,17 +31,13 @@ e.g. If I run the program over a range from 1-20 I should get the following outp
 
 Enhance your existing solution to perform the following:
 
-* Produce a report at the end of the programme showing how many times the following were output
+Produce a report at the end of the programme showing how many times the following were output
 
-** fizz
-
-** buzz
-
-** fizzbuzz
-
-** lucky
-
-** an integer
+ - fizz
+ - buzz
+ - fizzbuzz
+ - lucky
+ - an integer
 
 e.g. If I run the program over a range from 1-20 I should get the following output:
 
