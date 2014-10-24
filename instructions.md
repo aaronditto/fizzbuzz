@@ -53,7 +53,7 @@ e.g. If I run the program over a range from 1-20 I should get the following outp
 
 ###Step 4 (bonus step and not required)
 
-Refactor your implementation to use the `yield` keyword avaailable in modern versoins of Firefox.
+Refactor your implementation to use the `yield` keyword avaailable in modern versions of Firefox.
 
 ###Notes
 
