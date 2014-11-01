@@ -29,7 +29,7 @@ If the number contains a three you must output todays date formatted in ISO8601 
 
 e.g. Running the program over a range from 1-20 should output:
 
-    1 2 cool 4 buzz fizz 7 8 fizz buzz 11 fizz cool 14 fizzbuzz 16 17 fizz 19 buzz
+    1 2 2014-10-24 4 buzz fizz 7 8 fizz buzz 11 fizz 2014-10-24 14 fizzbuzz 16 17 fizz 19 buzz
 
 Tag your repo `step2` when you have completed this stage of the implementation.
 
